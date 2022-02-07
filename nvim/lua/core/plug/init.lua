@@ -1,0 +1,6 @@
+require "core.plug.plugged.cmp"
+require "core.plug.plugged.lualine"
+require "core.plug.plugged.treesitter"
+require "core.plug.plugged.nvim-tree"
+-- require "core.plug.plugged.bufferline"
+require "core.plug.plugged.telescope"
